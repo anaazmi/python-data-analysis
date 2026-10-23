@@ -55,5 +55,5 @@ Kaggle "Air Quality Data in India (2015 - 2020)" (city_day.csv): https://www.kag
 Python (pandas, matplotlib) in Google Colab.
 
 ## Files
-- **air-quality-analysis.ipynb**: the full notebook with code and explanations
+- **air_quality_analysis.ipynb**: the full notebook with code and explanations
 - **q1_city_aqi.png, q2_yearly_trend.png, q3_monthly_pattern.png, q4_lockdown_change.png**: the four charts
